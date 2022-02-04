@@ -1,0 +1,180 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    box-sizing: border-box;
+}
+.head {
+    height: 50px;
+    width: 100%;
+    background-color: #4d9aa4;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+}
+
+.bs {
+    width: 30px;
+    height: 15px;
+    color: white;
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.left {
+    width: 30%;
+    height: 30px;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-end;
+}
+
+.n,
+.abme,
+.port,
+.conme {
+    color: white;
+    line-height: 40px;
+}
+
+.center {
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url('Layer\ 1.png');
+    background-size: cover;
+}
+.wn {
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+.km {
+    height: 40px;
+    width: 80px;
+    background-color: transparent;
+    opacity: 5;
+    color: white;
+    border-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.km1 {
+    display: flex;
+    justify-content: center;
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 0px;
+}
+.it {
+    width: 100%;
+    height: 500px;
+    margin: 20px;
+    color: white;
+    margin: 0px;
+    margin-top: 150px;
+    background-color: black
+}
+.sh {;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+}
+.sh>img {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    padding: 10px;
+}
+.it {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.it>p {
+    font-size: 15px;
+}
+.it>h3 {
+    font-size: 27px;
+}
+.people {
+    color: white;
+    width: calc(100% - 40px);
+    height: 350px;
+    border-radius: 1%;
+}
+.kally {
+    background-color: rgb(57, 219, 130);
+}
+.kally>img {
+    width: calc(100px - 10px);
+    height: 100px;
+    border-radius: 50%;
+    padding: 2px;
+    border: 3px solid white;
+}
+.b2 {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+.john {
+    background-color: rgb(83, 81, 179);
+}
+.john>img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 2px;
+    border: 3px solid white;
+    margin: 10px;
+}
+.danny {
+    background-color: rgb(231, 37, 37);
+}
+.danny>img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 2px;
+    border: 3px solid white;
+    margin: 10px;
+}
+.end>img {
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 1px solid white;
+}
+.end {
+    margin-top: 200px;
+}
+.endend {
+    font-size: 11px;
+}
